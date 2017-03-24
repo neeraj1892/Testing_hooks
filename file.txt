@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lsseslielneqwelfnlfnlenelnenqewneqqqcwjwjkwewecwecwelcwelcwldcnlnwlclw
+=======
+first File
+>>>>>>> b6f5d8d7ca4c2ca77dad1b88de713647348b1df1
